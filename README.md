@@ -8,7 +8,7 @@
 ## **About me 👨‍💻**  
   
 
-My name is Francisco González 👋 , I'm 27 years old 🗓️  and I'm a uruguayan 🇺🇾 coffe killer ☕😋. I really love programming and everything related to technology 👨‍💻, I'm always learning new things 🤪. 
+My name is Francisco González 👋 , I'm 27 years old 🗓️  and I'm a uruguayan 🇺🇾 coffee killer ☕😋. I really love programming and everything related to technology 👨‍💻, I'm always learning new things 🤪. 
 
 My passion? Boca Juniors 💙💛⚽. 
 
