@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/fgonzalezberro/fgonzalezberro/blob/main/fgb.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/fgonzalezberro/fgonzalezberro/blob/main/fgb_.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
