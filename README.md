@@ -56,7 +56,7 @@ Cheers 🍻
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fgonzalezberro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonzalezberro&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
