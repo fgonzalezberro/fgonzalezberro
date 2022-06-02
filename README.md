@@ -8,15 +8,15 @@
 ## **About me 👨‍💻**  
   
 
-My name is Francisco González 👋 , I'm 27 years old 🗓️  and I'm a uruguayan 🇺🇾 coffee killer ☕😋. I really love programming and everything related to technology 👨‍💻, I'm always learning new things 🤪. 
+👋🏼 My name is Francisco González , I'm a 27 years old coffee snob from Uruguay. I really love programming and constantly learning new skills, specially if they are technology related.
 
-My passion? Boca Juniors 💙💛⚽. 
+My true passion? Boca Juniors 💙💛⚽.
 
-I'm currently working in a uruguayan software factory called ISA 💻 as a software developer. My roles in the company are: fixing bugs 🐛🔍, implementing improvements 🔧 and developing quality software 🖥️.  
+I'm currently working as a software developer in a company based here in Uruguay called ISA. My roles there are: fixing bugs, making improvements and developing quality software.
 
-In the near future i will attach my personal website with my projects so you can contact me if you want 🌐.
+In the near future I will attach my personal website with my portfolio so you can contact me if you want.
 
-Cheers 🍻  
+Cheers 🍻✌
   
 
 <br/>  
