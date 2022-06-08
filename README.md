@@ -12,7 +12,7 @@
 
 My true passion? Boca Juniors 💙💛⚽.
 
-I'm currently working as a software developer in a company based here in Uruguay called ISA. My roles there are: fixing bugs, making improvements and developing quality software.
+I'm currently working as a software developer in a company based here in Uruguay called ISA / Interfase. My roles there are: fixing bugs, making improvements and developing quality software.
 
 In the near future I will attach my personal website with my portfolio so you can contact me if you want.
 
