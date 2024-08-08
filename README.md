@@ -8,7 +8,7 @@
 ## **About me 👨‍💻**  
   
 
-👋🏼 My name is Francisco González , I'm a 27 years old coffee snob from Uruguay. I really love programming and constantly learning new skills, specially if they are technology related.
+👋🏼 My name is Francisco González , I'm a 29 years old coffee snob from Uruguay. I really love programming and constantly learning new skills, specially if they are technology related.
 
 I'm currently working as a software developer in a company based here in Uruguay called ISA/Interfase. My roles there are: fixing bugs, making improvements and developing quality software.
 
